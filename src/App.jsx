@@ -60,7 +60,7 @@ function App() {
     <>
       <div className="card w-full h-full flex justify-center ">
         <form
-          className="p-5 lg:w-2/4 bg-slate-100 my-5 rounded-md shadow-2xl text-center"
+          className="p-5 lg:w-2/4 md:w-2/4 bg-slate-100 my-5 rounded-md shadow-2xl text-center"
           onSubmit={submit}
         >
           <h1 className="text-lime-500 font-bold text-2xl">Form In React</h1>
